@@ -37,6 +37,11 @@ ul a{
     
 }
 
+main .site-footer{
+    background-color:rgb(71, 69, 69);
+    height: 50px;
+}
+
 /*a:visited{
     color: rgb(14, 4, 107);
 }*/
