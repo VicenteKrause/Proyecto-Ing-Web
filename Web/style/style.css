@@ -5,6 +5,7 @@ body{
 .site-header{
     background-color:rgb(71, 69, 69);
     position: relative;
+    height: 10px;
     
 }
 
@@ -32,8 +33,8 @@ ul a{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(28, 3, 245);
     font-size: 20px;
-    margin: 0.5em 0;
-    padding: 0.3em;
+    margin: 0.1em 0;
+    padding: 0.5em;
     
 }
 
