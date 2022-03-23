@@ -4,18 +4,31 @@ h1 {
     text-align: center;
     /*text-shadow: 0px 1px 1.5px rgb(0, 0, 0);*/
 }
+body{
+    margin: 0;
+}
 ul{
     justify-content: center;
     display: flex;
 }
 ul a{
     text-decoration: none;
-    background-color: rgb(192, 191, 191);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(28, 3, 245);
     font-size: 20px;
     margin: 0.5em 0;
     padding: 0.3em;
+    
+}
+.block{
+    background-color:rgb(71, 69, 69);
+    position: fixed;
+    width: 100%;
+    
+}
+.site-header{
+    background-color:rgb(71, 69, 69);
+    position: relative;
     
 }
 /*a:visited{
