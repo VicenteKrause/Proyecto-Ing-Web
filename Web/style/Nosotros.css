@@ -1,4 +1,6 @@
 footer {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(252, 249, 249);    
+    color: rgb(252, 249, 249);
+    justify-content: center;
+    display: flex;    
 }
