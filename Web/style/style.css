@@ -4,8 +4,8 @@ body{
 
 .site-header{
     background-color:rgb(71, 69, 69);
-    position: relative;
-    height: 10px;
+    position:sticky;
+    height: 50px;
     
 }
 
