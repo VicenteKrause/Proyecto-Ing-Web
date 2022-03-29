@@ -7,7 +7,7 @@
     /*margin: auto;
     width: 800px;
     padding-top: 200px;*/
-    width: 95%;
+    width: 100%;
     margin: auto;
     overflow: hidden;
 
@@ -55,6 +55,7 @@ ul li{
 
 
 }
+
 @keyframes cambio {
     0% {margin-left: 0;}
     50% {margin-left: 0;}
