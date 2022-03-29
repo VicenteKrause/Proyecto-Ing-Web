@@ -1,0 +1,52 @@
+/*.twt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 7.5%;
+}
+.waze{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 7.5%;
+    padding-bottom: 20%;
+}*/
+.colum {
+    float: left;
+    width: 40%;
+    padding: 5px;
+    height: auto;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+  
+ 
+.row {
+    content: "";
+    clear: both;
+    display: flex;
+    justify-content: center; 
+}
+.list-services{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    list-style:none;
+    font-size: 200%;
+    padding-left: 43.5%;
+    padding-top: 2.5%;
+}
+.list-services li{
+    padding-top: 0.5%;
+    text-align: justify;
+}
+.list-services i{
+    color: limegreen;
+}
+p{
+    padding-top: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    list-style:none;
+    font-size: 200%;
+    text-align: center;
+}

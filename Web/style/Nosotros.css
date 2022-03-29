@@ -23,6 +23,11 @@ h4 {
     height: 10vh;
     align-items: center;
     justify-content: center;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    position: fixed;
 }
 
 .redes ul li{

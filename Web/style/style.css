@@ -57,8 +57,8 @@ h1 {
     color: rgb(28, 3, 245);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    /*text-shadow: 0px 1px 1.5px rgb(0, 0, 0);*/
-}
+    /*text-shadow: 0px 1px 1.5px rgb(0, 0, 0);
+}*/
 
 /*nav{
    float: left;
@@ -85,11 +85,11 @@ nav ul li a{
     
 }
 */
-main .site-footer{
+/*main .site-footer{
     background-color:rgb(71, 69, 69);
     height: 50px;
 }
-
+*/
 /*a:visited{
     color: rgb(14, 4, 107);
 }*/
