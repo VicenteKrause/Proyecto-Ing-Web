@@ -6,6 +6,8 @@ iframe{
 }
 h4 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: beige;
+    padding-right: 3% ;
     
 }
 .text-area {
@@ -14,7 +16,8 @@ h4 {
     justify-content: center;
     display: flex;
     margin-top: 100px;
-    margin-bottom: 50px;    
+    margin-bottom: 50px;
+    
 }
 
 .redes {
