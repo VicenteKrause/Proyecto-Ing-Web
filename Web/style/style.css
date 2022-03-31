@@ -7,15 +7,6 @@ body{
     margin: 0;
   }
 
-/*.site-header{
-    z-index: 100;
-    width: 100%;
-    background-color:rgb(71, 69, 69);
-    position: absolute;
-    height: 100px;   
-    
-}
-*/
 .block{
     /*z-index: 100;
     
@@ -50,46 +41,20 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgba(123, 255, 0, 0.856);
     font-size: 20px;
-    text-decoration: none;
-}
-/*
-h1 {
-    color: rgb(28, 3, 245);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-    /*text-shadow: 0px 1px 1.5px rgb(0, 0, 0);
-}*/
-
-/*nav{
-   float: left;
+  
 }
 
-nav ul{
-    list-style: none;
-    justify-content: center;
-    display: flex;
-    overflow: hidden;
-}
-nav ul li{
-    float: left;  
-    font-size: 16px;
-}
-nav ul li a{
-    text-decoration: none;
-    display: block;
+.noticia{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(28, 3, 245);
-    font-size: 20px;
-    margin: 0.1em 0;
-    padding: 20px;
+    padding: 2%;
     
 }
-*/
-/*main .site-footer{
-    background-color:rgb(71, 69, 69);
-    height: 50px;
+.noticia2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10%;
+    padding-left: 2%;
 }
-*/
-/*a:visited{
-    color: rgb(14, 4, 107);
-}*/
+.ministro{
+    padding-bottom: 10%;
+    height: auto;
+}

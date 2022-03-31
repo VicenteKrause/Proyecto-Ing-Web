@@ -31,22 +31,35 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
     list-style:none;
-    font-size: 200%;
-    padding-left: 43.5%;
-    padding-top: 2.5%;
+    font-size: 400%;
+    
+    padding-top: 10%;
 }
 .list-services li{
     padding-top: 0.5%;
     text-align: justify;
+    
 }
 .list-services i{
     color: limegreen;
+
+}
+.container{
+    display: flex;
+    padding-bottom: -10%;
+
 }
 p{
-    padding-top: 5%;
+    padding-top: 2%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
     list-style:none;
     font-size: 200%;
     text-align: center;
+}
+.imagen{
+    width: 20%;
+    display: flex;
+    padding: 10%;
+    padding-left: 30%;
 }
